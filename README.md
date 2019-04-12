@@ -19,7 +19,7 @@ A collection of awesome XR tools, libraries, frameworks, and more.
 * [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 * [Maya](https://www.autodesk.com/products/maya/overview)
 * [Sketchup](https://www.sketchup.com/)
-* [Quill] (https://quill.fb.com/)
+* [Quill](https://quill.fb.com/)
 
 
 ## Analytics
@@ -36,7 +36,7 @@ A collection of awesome XR tools, libraries, frameworks, and more.
 
 
 ## Development Frameworks
-* [6D] https://www.6d.ai) (advanced AR development platform built on top of ARCore and ARKit SDKs)
+* [6D](https://www.6d.ai) (advanced AR development platform built on top of ARCore and ARKit SDKs)
 * [A-frame](https://aframe.io/) (development framework for building VR experiences on the web; maintained by Mozilla)
 * [Cry Engine](https://www.cryengine.com/) (robust game engine with support for VR development)
 * [Lumberyard](https://aws.amazon.com/lumberyard/) (game engine with support for VR development)
@@ -68,10 +68,10 @@ A collection of awesome XR tools, libraries, frameworks, and more.
 
 
 ## Render Engines
-* [Arnold](https://www.arnoldrenderer.com/) (a standalone render engine by Autodesk)
-* [Cycles](https://www.cycles-renderer.org/) (an open source standalone render engine by Blender)
-* [OctaneRender](https://home.otoy.com/render/octane-render/) (a standalone render engine by Otoy)
-* [Vray](https://www.chaosgroup.com/) (a standalone render engine by Chaos Group)
+* [Arnold](https://www.arnoldrenderer.com/) (standalone render engine by Autodesk)
+* [Cycles](https://www.cycles-renderer.org/) (open source standalone render engine by Blender)
+* [OctaneRender](https://home.otoy.com/render/octane-render/) (standalone render engine by Otoy)
+* [Vray](https://www.chaosgroup.com/) (standalone render engine by Chaos Group)
 
 
 ## Speech Recognition
@@ -81,6 +81,6 @@ A collection of awesome XR tools, libraries, frameworks, and more.
 
 
 ## Visual Effects
-* [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) (a 3D compositing tool for lighting, visual effects, post effects, and motion graphics)
-* [Fusion](https://www.blackmagicdesign.com/products/fusion/) (a 3D compositing tool for lighting, visual effects, and post effects that supports workflows inside of VR)
-* [Nuke](https://www.foundry.com/products/nuke) (a 3D compositing tool for lighting, visual effects, and post effects)
+* [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) (3D compositing tool for lighting, visual effects, post effects, and motion graphics)
+* [Fusion](https://www.blackmagicdesign.com/products/fusion/) (3D compositing tool for lighting, visual effects, and post effects that supports workflows inside of VR)
+* [Nuke](https://www.foundry.com/products/nuke) (3D compositing tool for lighting, visual effects, and post effects)
