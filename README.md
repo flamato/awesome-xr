@@ -6,9 +6,9 @@ A collection of awesome XR tools, libraries, frameworks, and more.
 * [Audio Tools](#audio-tools)
 * [Development Frameworks](#development-frameworks)
 * [Development Libraries](#development-libraries)
-* [Multiplayer Hosting](multiplayer-hosting)
+* [Hosting and Backend Platforms](hosting-and-backend-platforms)
 * [Performance Monitoring](#performance-monitoring)
-* [Rendering](#rendering)
+* [Render Engines](#render-engines)
 * [Speech Recognition](#speech-recognition)
 * [Visual Effects](#visual-effects)
 
@@ -18,7 +18,8 @@ A collection of awesome XR tools, libraries, frameworks, and more.
 * [Blender](https://www.blender.org/)
 * [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 * [Maya](https://www.autodesk.com/products/maya/overview)
-* [Sketchup](https://help.sketchup.com/en/sketchup/sketchup)
+* [Sketchup](https://www.sketchup.com/)
+* [Quill] (https://quill.fb.com/)
 
 
 ## Analytics
@@ -29,56 +30,57 @@ A collection of awesome XR tools, libraries, frameworks, and more.
 
 
 ## Audio Tools
-* [DearVR Spatial Connect](https://www.dearvr.com/products/dearvr-spatial-connect)
-* [DearVR Pro](https://www.dearvr.com/products/dearvr-pro) (DAW plugins & VR mixing)
-* [FB360 Spatial Workstation](https://facebook360.fb.com/spatial-workstation/) (free)
-* [Resonance Audio](https://resonance-audio.github.io/resonance-audio/) (free, spatialization & ambisonics SDK)
+* [DearVR Spatial Connect](https://www.dearvr.com/products/dearvr-spatial-connect) (audio mixing tool manipulated entirely in VR)
+* [DearVR Pro](https://www.dearvr.com/products/dearvr-pro) (suite of DAW plugins and tools for VR audio mixing)
+* [FB360 Spatial Workstation](https://facebook360.fb.com/spatial-workstation/) (free software and suite of plugins for VR audio mixing)
 
 
 ## Development Frameworks
-* [A-frame](https://aframe.io/) (webVR)
-* [Lumberyard](https://aws.amazon.com/lumberyard/)
-* [React 360](https://facebook.github.io/react-360/) (webVR)
-* [Sumerian](https://aws.amazon.com/sumerian/) (webVR)
-* [Torch](https://www.torch.app/) (AR)
-* [Unity](https://unity3d.com/)
-* [Unreal](https://www.unrealengine.com/)
+* [6D] https://www.6d.ai) (advanced AR development platform built on top of ARCore and ARKit SDKs)
+* [A-frame](https://aframe.io/) (development framework for building VR experiences on the web; maintained by Mozilla)
+* [Cry Engine](https://www.cryengine.com/) (robust game engine with support for VR development)
+* [Lumberyard](https://aws.amazon.com/lumberyard/) (game engine with support for VR development)
+* [React 360](https://facebook.github.io/react-360/) (development famework for building VR experiences on the web; maintained by Facebook)
+* [Sumerian](https://aws.amazon.com/sumerian/) (development framework for building VR experiences on the web; maintained by Amazon)
+* [Torch](https://www.torch.app/) (iOS app for rapidly developing AR applications)
+* [Unity](https://unity3d.com/) (robust game engine with cross-platform support for AR / VR development)
+* [Unreal](https://www.unrealengine.com/) (robust game engine with cross-platform support for AR / VR development)
 
 
 ## Development Libraries
-* [ARCore](https://developers.google.com/ar/)
-* [ARKit](https://developer.apple.com/arkit/)
-* [Vuforia](https://www.vuforia.com/)
-* [Wikitude](https://www.wikitude.com/)
+* [ARCore](https://developers.google.com/ar/) (development SDK for building AR applications on Android)
+* [ARKit](https://developer.apple.com/arkit/) (development SDK for building AR applications on iOS)
+* [Vuforia](https://www.vuforia.com/) (development SDK for building cross-platform AR applications)
+* [Wikitude](https://www.wikitude.com/) (development SDK for building cross-platform AR applications)
 
 
-## Multiplayer Hosting
-* [Amazon GameLift](https://aws.amazon.com/gamelift/)
-* [Gamesparks](https://www.gamesparks.com/)
-* [Playfab](https://playfab.com/)
-* [Photon Engine](https://www.photonengine.com/)
-* [SteamWorks](https://partner.steamgames.com/)
+## Hosting & Backend Platforms
+* [Amazon GameLift](https://aws.amazon.com/gamelift/) (backend platform for game matchmaking, cross-platform play, and more)
+* [Gamesparks](https://www.gamesparks.com/) (backend platform for game leaderboards, chat, matchmaking, and more)
+* [Playfab](https://playfab.com/) (backend platform for game commerce, analytics, player management, and more)
+* [Photon Engine](https://www.photonengine.com/) (backend platform for game communication, multiplayer, self-hosting, and more) 
+* [SteamWorks](https://partner.steamgames.com/) (backend platform for game economy, matchmaking, anti-cheat, and more)
 
 
 ## Performance Monitoring
-* [Oculus Remote Monitor](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-remote-monitor/) (Oculus mobile)
-* [OVR Metrics Tool](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-ovrmetricstool/) (Oculus mobile)
+* [Oculus Remote Monitor](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-remote-monitor/) (debugging tool for performance viewing and console logging on an Oculus mobile device)
+* [OVR Metrics Tool](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-ovrmetricstool/) (tool for viewing performance metrics such as framerate, utilization, heat, and more on an Oculus mobile device)
 
 
-## Rendering
-* [Arnold](https://www.arnoldrenderer.com/) (by Autodesk)
-* [Cycles](https://www.cycles-renderer.org/) (by blender)
-* [OctaneRender](https://home.otoy.com/render/octane-render/) (by otoy)
-* [Vray](https://www.chaosgroup.com/vray/blender)
+## Render Engines
+* [Arnold](https://www.arnoldrenderer.com/) (a standalone render engine by Autodesk)
+* [Cycles](https://www.cycles-renderer.org/) (an open source standalone render engine by Blender)
+* [OctaneRender](https://home.otoy.com/render/octane-render/) (a standalone render engine by Otoy)
+* [Vray](https://www.chaosgroup.com/) (a standalone render engine by Chaos Group)
 
 
 ## Speech Recognition
-* [Amazon Transcribe Speech to Text](https://aws.amazon.com/transcribe/)
-* [Google Cloud Speech to Text](https://cloud.google.com/speech-to-text/)
-* [IBM Watson Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
+* [Amazon Transcribe Speech to Text](https://aws.amazon.com/transcribe/) (speech recognition API by Amazon)
+* [Google Cloud Speech to Text](https://cloud.google.com/speech-to-text/) (speech recognition API by Google)
+* [IBM Watson Speech to Text](https://www.ibm.com/watson/services/speech-to-text/) (speech recognition API by IBM)
 
 
 ## Visual Effects
-* [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
-* [Fusion](https://www.blackmagicdesign.com/products/fusion/)
-* [Nuke ](https://www.foundry.com/products/nuke)
+* [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) (a 3D compositing tool for lighting, visual effects, post effects, and motion graphics)
+* [Fusion](https://www.blackmagicdesign.com/products/fusion/) (a 3D compositing tool for lighting, visual effects, and post effects that supports workflows inside of VR)
+* [Nuke](https://www.foundry.com/products/nuke) (a 3D compositing tool for lighting, visual effects, and post effects)
