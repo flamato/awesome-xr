@@ -16,6 +16,9 @@ In order for the resource to stay active on the list, it should follow these qua
 * Generally used and useful to the community
 * Actively maintained and regularly updated
 
+## Join The Community
+You can find our community on discord for the latest discussion on all things XR software, tools, libraries, frameworks, games, hardware, and more: [https://discord.gg/CA6narp](https://discord.gg/CA6narp)
+
 ---
 
-Shoutout to [Awesome Ruby](https://github.com/markets/awesome-ruby) for the insirpiration.
+Big shoutout to [Awesome Ruby](https://github.com/markets/awesome-ruby) for the inspiration!
