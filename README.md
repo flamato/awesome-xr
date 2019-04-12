@@ -1,5 +1,10 @@
 # Awesome XR
-A collection of awesome XR tools, libraries, frameworks, and more.
+
+A collection of awesome XR tools, libraries, frameworks, and software!
+
+We're happy to take suggestions and contributions if you think we've missed something. Please check our [contributing guidelines](https://github.com/NotionTheory/awesome-xr/blob/master/CONTRIBUTING.md) before doing so.
+
+If you have any further questions, you can find us in the community discord server: [https://discord.gg/CA6narp](https://discord.gg/CA6narp)
 
 * [3D Modeling and Animation Tools](#3d-modeling-and-animation-tools)
 * [Analytics](#analytics)
