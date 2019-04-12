@@ -1,4 +1,4 @@
-# Awesome XR
+# 👓 Awesome XR
 
 A collection of awesome XR tools, libraries, frameworks, and software!
 
