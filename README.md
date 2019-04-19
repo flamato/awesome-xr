@@ -43,7 +43,6 @@ If you have any further questions, you can find us in the community discord serv
 * [6D](https://www.6d.ai) (advanced AR development platform built on top of ARCore and ARKit SDKs)
 * [8th Wall](https://www.8thwall.com/) (tool for developing and distributing web-based AR experiences)
 * [A-frame](https://aframe.io/) (development framework for building VR experiences on the web; maintained by Mozilla)
-* [Blippar](https://www.blippar.com/) (tool for developing and distributing web-based AR experiences)
 * [Cry Engine](https://www.cryengine.com/) (robust game engine with support for VR development)
 * [InstaVR](http://www.instavr.co/) (web-based tool for creating 360° photo and video experiences)
 * [Lens Studio](https://lensstudio.snapchat.com/) (snapchat's tool for creating AR experiences and camera filters)
