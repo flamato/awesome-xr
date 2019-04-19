@@ -28,10 +28,9 @@ If you have any further questions, you can find us in the community discord serv
 
 
 ## Analytics
-* [Cognitive 3D](https://cognitive3d.com/)
-* [Observer Analytics](https://observeranalytics.com/)
-* [Retinad VR](https://www.retinadvr.com/)
-* [Vadr](https://www.vadr.io/)
+* [Cognitive 3D](https://cognitive3d.com/) (cross-platform analytics SDK that tracks spatial data, object data, and custom events)
+* [Observer Analytics](https://observeranalytics.com/) (cross-platform analytics SDK that measures app usage and tracks session performance)
+* [Retinad VR](https://www.retinadvr.com/) (cross-platform analytics SDK that provides visual heatmaps and user segmentation based on receptiveness)
 
 
 ## Audio Tools
@@ -42,14 +41,22 @@ If you have any further questions, you can find us in the community discord serv
 
 ## Development Frameworks
 * [6D](https://www.6d.ai) (advanced AR development platform built on top of ARCore and ARKit SDKs)
+* [8th Wall](https://www.8thwall.com/) (tool for developing and distributing web-based AR experiences)
 * [A-frame](https://aframe.io/) (development framework for building VR experiences on the web; maintained by Mozilla)
+* [Blippar](https://www.blippar.com/) (tool for developing and distributing web-based AR experiences)
 * [Cry Engine](https://www.cryengine.com/) (robust game engine with support for VR development)
+* [InstaVR](http://www.instavr.co/) (web-based tool for creating 360° photo and video experiences)
+* [Lens Studio](https://lensstudio.snapchat.com/) (snapchat's tool for creating AR experiences and camera filters)
 * [Lumberyard](https://aws.amazon.com/lumberyard/) (game engine with support for VR development)
 * [React 360](https://facebook.github.io/react-360/) (development famework for building VR experiences on the web; maintained by Facebook)
+* [Roundme](https://roundme.com/) (web-based tool for creating 360° photo tours)
+* [Spark AR](https://www.sparkar.com/ar-studio/) (facebook's tool for creating AR experiences and camera filters)
 * [Sumerian](https://aws.amazon.com/sumerian/) (development framework for building VR experiences on the web; maintained by Amazon)
 * [Torch](https://www.torch.app/) (iOS app for rapidly developing AR applications)
+* [Tour Creator](https://vr.google.com/tourcreator/) (web-based tool for creating 360° photo tours)
 * [Unity](https://unity3d.com/) (robust game engine with cross-platform support for AR / VR development)
 * [Unreal](https://www.unrealengine.com/) (robust game engine with cross-platform support for AR / VR development)
+* [Wonda VR](https://www.wondavr.com/) (web-based tool for creating and distributing VR experiences via the browser)
 
 
 ## Development Libraries
